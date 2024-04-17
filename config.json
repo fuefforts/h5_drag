@@ -1,0 +1,14 @@
+{
+  "port": "4000",
+  "adminAccount": "admin",
+  "db": {
+    "servername": "172.16.14.38",
+    "DATABASE": "admin",
+    "port": 27017,
+    "user": "",
+    "pass": "",
+    "authSource": ""
+  },
+  "baseURL":  "http://123.57.142.2:4000"  ,
+  "baseUrlDev":"http://122.9.133.170:4000"
+}
